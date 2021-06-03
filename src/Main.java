@@ -22,9 +22,7 @@ public class Main {
         search.addSeed(new Word("bangun", "wakeup"));
 
 
-        /**
-         * Search from english to indonesia
-         */
+
 
         System.out.println("\n====== Cari berdasarkan kata inggris ======");
 
@@ -37,9 +35,6 @@ public class Main {
             System.out.println("Kata '"+ keyWord1 +"' Tidak Di temukan");
         }
 
-        /**
-         * Search from indonesia to english
-         */
 
         System.out.println("\n====== Cari berdasarkan kata indonesia ======");
 
